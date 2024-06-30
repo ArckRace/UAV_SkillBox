@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/arck/course_C++/cpp_mod1/build",
+  "command": "/usr/bin/c++    -g   -std=gnu++17 -o CMakeFiles/lesson4.dir/main.cpp.o -c /home/arck/course_C++/cpp_mod1/main.cpp",
+  "file": "/home/arck/course_C++/cpp_mod1/main.cpp"
+}
+]
