@@ -1,3 +1,0 @@
-/home/arck/course_C++/cpp_mod1/build/CMakeFiles/rebuild_cache.dir
-/home/arck/course_C++/cpp_mod1/build/CMakeFiles/edit_cache.dir
-/home/arck/course_C++/cpp_mod1/build/CMakeFiles/lesson4.dir
